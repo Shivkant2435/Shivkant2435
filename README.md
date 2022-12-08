@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Shivkant</h1>
 <h3 align="center">A passionate Software developer.....</h3>
+<h4 algin="center">
+*Strong problem-solving skills<br>
+*Competitive Programming<br>
+*Quality understanding of data structures and algorithms<br>
+*Proficiency in both C++<br>
+*Command over OOPs concepts<br>
+*Command over Core Computer Science concepts<br>
+*Developing Web Applications
+  </h3>
+  
+  <h4 algin="center">
+
+  With an extreme curiosity in Software Development and an entrepreneurial skillset, I want to give my best projectile at bringing value to the corporate world.
+</h4>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivkant2435" alt="shivkant2435" /></a> </p>
 
 - 📫 How to reach me **shivkantrai.2435@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
