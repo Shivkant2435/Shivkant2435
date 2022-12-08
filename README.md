@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivkant</h1>
 <h3 align="center">A passionate Software developer.....</h3>
 <h4 algin="center">
--Strong problem-solving skills<br>
--Competitive Programming<br>
--Quality understanding of data structures and algorithms<br>
--Proficiency in both C++<br>
--Command over OOPs concepts<br>
--Command over Core Computer Science concepts<br>
--Developing Web Applications
+- 📫Strong problem-solving skills<br><br>
+- 📫Competitive Programming<br><br>
+- 📫Quality understanding of data structures and algorithms<br><br>
+- 📫Proficiency in both C++<br><br>
+- 📫Command over OOPs concepts<br><br>
+- 📫Command over Core Computer Science concepts<br><br>
+- 📫Developing Web Applications
   </h3>
   
   <h4 algin="center">
