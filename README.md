@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivkant</h1>
 <h3 align="center">A passionate Software developer.....</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivkant8499" alt="shivkant8499" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivkant8499" alt="shivkant2435" /></a> </p>
 
 - 📫 How to reach me **shivkantrai.2435@gmail.com**
 
