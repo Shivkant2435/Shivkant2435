@@ -4,7 +4,7 @@
 - 📫Strong problem-solving skills<br><br>
 - 📫Competitive Programming<br><br>
 - 📫Quality understanding of data structures and algorithms<br><br>
-- 📫Proficiency in both C++<br><br>
+- 📫Proficiency in  C++<br><br>
 - 📫Command over OOPs concepts<br><br>
 - 📫Command over Core Computer Science concepts<br><br>
 - 📫Developing Web Applications
