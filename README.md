@@ -19,7 +19,7 @@
 <hr>
 
 ### LEETCODE STATS
-<img alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/shiv8499?theme=nord&font=&extension=null" width="400"/>
+<img alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/shivkant2435?theme=nord&font=&extension=null" width="400"/>
 
 <hr>
 
